@@ -25,18 +25,6 @@ const projects = [
     image: "/images/Caption-AI.png",
     link: "https://caption-fe.vercel.app/",
   },
-  {
-    title: "Transport Hub",
-    category: "Travel Booking Interface",
-    tools: "HTML5, CSS3, JavaScript, REST APIs",
-    image: "/images/transport-hub.png",
-  },
-  {
-    title: "Group Expense Tracker",
-    category: "Financial Management",
-    tools: "JavaScript, Firebase, CSS3",
-    image: "/images/expense-tracker.png",
-  },
 ];
 
 const Work = () => {
